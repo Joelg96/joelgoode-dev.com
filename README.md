@@ -6,7 +6,8 @@
 
 ## Overview
 
-This is my portfolio website which contains my contact info, resume, and examples of different projects. 
+This is my portfolio website which contains my contact info, resume, and examples of different projects.
+The included projects include Data analysis, Java programming, web development, and UX/UI design.
 
 ## Usage
 
