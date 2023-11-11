@@ -2,7 +2,7 @@
 
 **Status:** Under construction
 
-**Last update:** 
+**Last update:**
 
 ## Overview
 
