@@ -16,14 +16,15 @@ const TAB_DATA = [
           <li>Figma</li>
           <li>Git</li>
           <li>GitHub</li>
+          <li>HTML</li>
         </ul>
         <ul className="list-disc pl-2 col-span-1">
-          <li>HTML</li>
           <li>Java</li>
           <li>JavaScript</li>
           <li>JIRA</li>
           <li>Markdown</li>
           <li>Python</li>
+          <li>React</li>
         </ul>
       </div>
     ),
