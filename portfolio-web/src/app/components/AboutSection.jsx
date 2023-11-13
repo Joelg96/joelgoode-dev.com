@@ -59,7 +59,7 @@ const AboutSection = () => {
   };
 
   return (
-    <section className="text-white">
+    <section className="text-white" id="about">
       <div className="md:grid md:grid-cols-2 gap-8 items-center py-8 px-4 xl:gap-16 sm:py-16 xl:px-16">
         <div className="md:relative w-full h-full">
           <Image
@@ -67,15 +67,18 @@ const AboutSection = () => {
             width={500}
             height={500}
             layout="responsive"
+            alt="Laptop with code on screen"
           />
         </div>
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold mb-4">About me</h2>
           <p className="text-base lg:text-lg">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Massa
-            sapien faucibus et molestie ac feugiat sed lectus vestibulum. Massa
-            tincidunt nunc pulvinar sapien et ligula ullamcorper.
+            I am a recent graduate of Computer Science with a passion for
+            creating interactive and responsive web application. I am a quick
+            learner and I am always looking to expand my knowledge and skill
+            set. I am a team player and I am excited to work with others to
+            create a great user experience whether in applications or
+            documentation.
           </p>
           <div className="flex flext-row justify-start mt-8">
             <TabButton
