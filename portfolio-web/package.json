@@ -1,9 +1,12 @@
 {
+  "homepage": "https://www.joelgoode-dev.com/",
   "name": "portfolio-web",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "predeploy": "next build",
+    "deploy": "gh-pages -d out",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
