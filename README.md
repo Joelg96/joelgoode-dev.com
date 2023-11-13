@@ -16,5 +16,3 @@ To view my portfolio, visit the following link:
 [Joel Goode portfolio](https://www.joelgoode-dev.com/)
 
 ## License
-
-See the provided [license](LICENSE) within the repository.
