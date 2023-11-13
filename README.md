@@ -1,8 +1,8 @@
 # Website Portfolio
 
-**Status:** Under construction
+**Status:** Live
 
-**Last update:**
+**Last update:** 11/12/23
 
 ## Overview
 
