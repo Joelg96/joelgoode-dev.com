@@ -34,7 +34,7 @@ const TAB_DATA = [
     id: "education",
     content: (
       <ul className="list-disc pl-2">
-        <li>B.S. Computer Science - University of Maryland</li>
+        <li>B.Sc. Computer Science - University of Maryland</li>
         <li>GPA: 3.6</li>
       </ul>
     ),
@@ -45,6 +45,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Google UX Design (in-progress)</li>
+        <li>Meta Front-End Developer Certificate (in-progress)</li>
         <li>Tacoma Community College - IT Help Desk</li>
       </ul>
     ),
