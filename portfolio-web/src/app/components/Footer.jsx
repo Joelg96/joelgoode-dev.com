@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container p-12 flex justify-between items-center">
         <span>
           <a
-            href="/path-to-resume.pdf" // Replace with the actual path to your resume
+            href="/docs/Joel-Goode-Resume.pdf"
             download
             className="text-blue-500 hover:underline flex items-center"
           >
