@@ -13,13 +13,13 @@ const Projects = () => {
           <p className="text-4xl font-bold inline border-b-4 text-gray-300 border-cyan-500">
             Projects
           </p>
-          <p className="py-6 text-2xl">
+          <p className="py-6 text-2xl text-center">
             Check out some of my most recent web development and software
             development projects.
           </p>
         </div>
         {/* Container */}
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+        <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Grid Item */}
           <div className="shadow-lg shadow-[#040c16] group container rounded-md flex justify-center items-center mx-auto content-div relative overflow-hidden">
             <img
@@ -28,8 +28,8 @@ const Projects = () => {
               className="w-full h-full object-cover rounded-md transition-opacity duration-300"
             />
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col absolute inset-0 bg-black bg-opacity-50 transition-opacity duration-300">
-              <span className="text-lg font-bold text-white tracking-wider">
+            <div className="opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col absolute inset-0 bg-black bg-opacity-50 transition-opacity duration-300 p-4">
+              <span className="text-lg font-bold text-white tracking-wider text-center">
                 OpenVPN project
               </span>
               <p className="text-center">
@@ -55,8 +55,8 @@ const Projects = () => {
               className="w-full h-full object-cover rounded-md"
             ></video>
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col absolute inset-0 bg-black bg-opacity-80 transition-opacity duration-300">
-              <span className="text-lg font-bold text-white tracking-wider">
+            <div className="opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col absolute inset-0 bg-black bg-opacity-80 transition-opacity duration-300 p-4">
+              <span className="text-lg font-bold text-white tracking-wider text-center">
                 Music Portfolio
               </span>
               <p className="text-center">
@@ -87,8 +87,8 @@ const Projects = () => {
               className="w-full h-full object-cover rounded-md"
             ></video>
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col absolute inset-0 bg-black bg-opacity-80 transition-opacity duration-300">
-              <span className="text-lg font-bold text-white tracking-wider">
+            <div className="opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col absolute inset-0 bg-black bg-opacity-80 transition-opacity duration-300 p-4">
+              <span className="text-lg font-bold text-white tracking-wider text-center">
                 Videography Portfolio
               </span>
               <p className="text-center">
@@ -116,8 +116,8 @@ const Projects = () => {
               className="w-full h-full object-cover rounded-md transition-opacity duration-300"
             />
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col absolute inset-0 bg-black bg-opacity-70 transition-opacity duration-300">
-              <span className="text-lg font-bold text-white tracking-wider">
+            <div className="opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col absolute inset-0 bg-black bg-opacity-70 transition-opacity duration-300 p-4">
+              <span className="text-lg font-bold text-white tracking-wider text-center">
                 Python Housing Data Analysis
               </span>
               <p className="text-center">
@@ -141,8 +141,8 @@ const Projects = () => {
               className="w-full h-full object-cover rounded-md transition-opacity duration-300"
             />
             {/* Hover Effects */}
-            <div className="opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col absolute inset-0 bg-black bg-opacity-70 transition-opacity duration-300">
-              <span className="text-lg font-bold text-white tracking-wider">
+            <div className="opacity-0 group-hover:opacity-100 flex justify-center items-center flex-col absolute inset-0 bg-black bg-opacity-70 transition-opacity duration-300 p-4">
+              <span className="text-lg font-bold text-white tracking-wider text-center">
                 Java Media Rental System
               </span>
               <p className="text-center">
