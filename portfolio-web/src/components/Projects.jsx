@@ -51,6 +51,7 @@ const Projects = () => {
               autoPlay
               loop
               muted
+              playsInline
               className="w-full h-full object-cover rounded-md"
             ></video>
             {/* Hover Effects */}
@@ -82,6 +83,7 @@ const Projects = () => {
               autoPlay
               loop
               muted
+              playsInline
               className="w-full h-full object-cover rounded-md"
             ></video>
             {/* Hover Effects */}
